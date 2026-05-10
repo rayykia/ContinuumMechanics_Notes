@@ -27,4 +27,9 @@ These notes are my own study materials for MEAM 5300 at the University of
 Pennsylvania. They are not official course materials and are not affiliated with
 or endorsed by the University of Pennsylvania.
 
+## License
+
+This work is licensed under the Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License. See
+[LICENSE](LICENSE) or <https://creativecommons.org/licenses/by-nc-sa/4.0/>.
 
