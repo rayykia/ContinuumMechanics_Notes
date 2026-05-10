@@ -8,6 +8,13 @@ The notes are intended as a study reference for continuum mechanics topics
 covered in MEAM 5300. They may include derivations, definitions, examples, and
 worked material from lectures or related study.
 
+## Syllabus of the course
+1. basics.pdf
+2. kinematics.pdf
+3. dynamics.pdf
+4. constitutive_theory.pdf
+5. fluids.pdf
+
 
 ## Status
 
